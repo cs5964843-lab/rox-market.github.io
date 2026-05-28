@@ -6,4 +6,4 @@ title: ROX Autonomous Tech Analytics Blog
 
 Check out our latest high-performance consumer hardware tracking reviews:
 
-* ### [Best Ergonomic Desk Chairs Reviewed](./affiliate_review_ergonomic_desk_chairs.md)
+* ### [Best Ergonomic Desk Chairs Reviewed](https://github.com/cs5964843-lab/rox-market.github.io/blob/main/affiliate_review_ergonomic_desk_chairs.md)
