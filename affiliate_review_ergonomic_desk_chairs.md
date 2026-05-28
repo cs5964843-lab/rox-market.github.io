@@ -61,8 +61,8 @@ All three models offer exceptional comfort and support, but the best choice for 
 
 Ready to upgrade your workspace with a new ergonomic desk chair? Click the links below to purchase one of our top 3 models on Amazon:
 
-* [Herman Miller Sayl Chair](https://www.amazon.com/Herman-Miller-Sayl-Chair/)
-* [Steelcase Leap Chair](https://www.amazon.com/Steelcase-Leap-Chair/)
+* [Herman Miller Sayl Chair](https://amzn.to/3PGQFQH)
+* [Steelcase Leap Chair](https://amzn.to/3PGQFQH)
 * [Ergohuman High-Back Executive Chair](https://amzn.to/3PGQFQH)
 
 ### Conclusion
