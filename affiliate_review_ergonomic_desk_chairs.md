@@ -70,8 +70,7 @@ Ready to upgrade your workspace with a new ergonomic desk chair? Click the links
 
 * [Herman Miller Sayl Chair](https://www.amazon.com/Herman-Miller-Sayl-Chair/)
 * [Steelcase Leap Chair](https://www.amazon.com/Steelcase-Leap-Chair/)
-* [Ergohuman High-Back Executive Chair](https://www.amazon.com/Ergohuman-High-Back-Executive-Chair/)
-*(https://www.amazon.in/Solo-Leveling-Level-Oversized-T-Shirt/dp/B0CT5V3LK3?pd_rd_i=B0CT5V3LK3&pd_rd_w=Cq68w&content-id=amzn1.sym.d1f93add-6486-42ac-94c7-352c77b4cb14&pf_rd_p=d1f93add-6486-42ac-94c7-352c77b4cb14&pf_rd_r=K9QTWNVWRCNWWEP1K0ED&pd_rd_wg=9b4xt&pd_rd_r=6349091e-0336-45c9-aef9-563ce2b80231&th=1&psc=1&linkCode=ll2&tag=cs5964843-21&linkId=04f1e3fa176e04a4271eaa6a9a00d4c3&ref_=as_li_ss_tl)
+* [Ergohuman High-Back Executive Chair][https://amzn.to/3PGQFQH]
 ### Conclusion
 
 Investing in a good ergonomic desk chair is essential for your comfort, productivity, and overall well-being. With our top 3 models, you can't go wrong. Whether you choose the Herman Miller Sayl Chair, Steelcase Leap Chair, or Ergohuman High-Back Executive Chair, you'll be taking the first step towards a healthier and more comfortable work experience.
@@ -84,3 +83,5 @@ Investing in a good ergonomic desk chair is essential for your comfort, producti
 * Take advantage of Amazon's free shipping and returns to try out a chair risk-free
 
 By following these tips and choosing one of our top 3 models, you'll be well on your way to creating a comfortable and productive workspace that will benefit your health and well-being for years to come.
+
+[def]: https://www.amazon.in/Solo-Leveling-Level-Oversized-T-Shirt/dp/B0CT5V3LK3?pd_rd_i=B0CT5V3LK3&pd_rd_w=Cq68w&content-id=amzn1.sym.d1f93add-6486-42ac-94c7-352c77b4cb14&pf_rd_p=d1f93add-6486-42ac-94c7-352c77b4cb14&pf_rd_r=K9QTWNVWRCNWWEP1K0ED&pd_rd_wg=9b4xt&pd_rd_r=6349091e-0336-45c9-aef9-563ce2b80231&th=1&psc=1&linkCode=ll2&tag=cs5964843-21&linkId=04f1e3fa176e04a4271eaa6a9a00d4c3&ref_=as_li_ss_tl
